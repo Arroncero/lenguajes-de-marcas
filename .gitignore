@@ -1,0 +1,6 @@
+#Compilated files
+*.aux
+*.log
+*.pdf
+*.synctec.gz
+*.toc
